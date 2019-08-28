@@ -1,4 +1,4 @@
-# Fake Instagral Bomber
+# Fake Instagram Bomber
 
 A Python open-source fake message bomber.
 
